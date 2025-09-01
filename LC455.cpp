@@ -16,7 +16,7 @@ public:
             if(s[j] >= g[i]){
                 i++;
                 j++;
-            }else if(s[j] < g[i]){
+            }else if(s[j]   < g[i]){
                 j++;
             }
         }
